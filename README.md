@@ -1,5 +1,4 @@
 Hi, I'm Esra 👋
-* 👩🏻‍💻 I’m currently learning Swift
 * 💌 How to reach me: esralin2000@gmail.com
 
 <!--
